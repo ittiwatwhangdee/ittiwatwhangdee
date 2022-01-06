@@ -1,4 +1,4 @@
-## Ittiwat Whangdee
+## <Ittiwat Whangdee/>
 I’m Ittiwat form Thailand, and I do content on Design and Development. I really enjoy learning languages and frameworks like Bootstrap. I also enjoy wireframing, ux, ui, and design in general.
 
 ## Skills and Experinces
@@ -6,7 +6,7 @@ I’m Ittiwat form Thailand, and I do content on Design and Development. I reall
 * 📱 UX/UI Design
 
 ## Examples of Work
-![Design and development](https://www.img.in.th/images/71861c3bb37359cfbb2c98c60e06039b.png)
+![Design and development](https://www.img.in.th/images/19b3c590374f68d413c6a88161e1ed90.png)
 <!--
 **zharente/zharente** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
