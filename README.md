@@ -1,7 +1,14 @@
-### Hi there 👋
+## Ittiwat Whangdee
+I’m Ittiwat form Thailand, and I do content on Design and Development. I really enjoy learning languages and frameworks like Bootstrap.
 
+## Skills and Experinces
+* 💻 HTML, CSS, JS
+* 📱 UX/UI Design
+
+## Examples of Work
+![Design and development](https://www.img.in.th/images/71861c3bb37359cfbb2c98c60e06039b.png)
 <!--
-**ittiwatwhangdee/ittiwatwhangdee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**zharente/zharente** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
