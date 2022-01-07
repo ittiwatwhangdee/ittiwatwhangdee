@@ -12,9 +12,7 @@ I’m Ittiwat form Thailand, and I do content on Design and Development. I reall
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ittiwatwhangdee&label=Profile%20views&color=0e75b6&style=flat" alt="ittiwatwhangdee" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ittiwatwhangdee" alt="ittiwatwhangdee" /></a> </p>
-
-<h3 align="left">Connect with me:</h3>
+## <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/ittiwat-whangdee-8227111a1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ittiwat-whangdee-8227111a1" height="30" width="40" /></a>
 <a href="https://fb.com/https://web.facebook.com/fahut.ittiwat/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://web.facebook.com/fahut.ittiwat/" height="30" width="40" /></a>
