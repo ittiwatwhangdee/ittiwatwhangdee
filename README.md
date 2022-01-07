@@ -1,7 +1,7 @@
 ## Ittiwat Whangdee <img src="https://komarev.com/ghpvc/?username=ittiwatwhangdee&label=Profile%20views&color=0e75b6&style=flat" alt="ittiwatwhangdee" />
 I’m Ittiwat form Thailand, and I do content on Design and Development. I really enjoy learning languages and frameworks like Bootstrap. I also enjoy wireframing, ux, ui, and design in general.
 
-## Skills and Experinces
+## Skills and Experiences
 * 💻 HTML, CSS, JS
 * 📱 UX/UI Design
 
