@@ -4,6 +4,7 @@ I’m Ittiwat form Thailand, and I do content on Design and Development. I reall
 ## Skills and Experiences
 * 💻 HTML, CSS, JS
 * 📱 UX/UI Design
+* 📱 React Native (Learning)
 
 ## Examples of Work
 ![Design and development](https://media-exp1.licdn.com/dms/image/C5622AQGX9bJIu7rqHw/feedshare-shrink_2048_1536/0/1641640679463?e=1644451200&v=beta&t=FM075lYsuLlUJeOeRRbrl7cFHLM6EYylwTRCamGhG8w)
