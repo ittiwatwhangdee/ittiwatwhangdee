@@ -7,7 +7,7 @@ I’m Ittiwat form Thailand, and I do content on Design and Development. I reall
 * 📱 Flutter (Learning)
 
 ## Examples of Work
-![Design and development](https://media-exp1.licdn.com/dms/image/C5622AQGX9bJIu7rqHw/feedshare-shrink_2048_1536/0/1641640679463?e=1644451200&v=beta&t=FM075lYsuLlUJeOeRRbrl7cFHLM6EYylwTRCamGhG8w)
+![Design and development](https://www.linkedin.com/in/ittiwat-whangdee-8227111a1/overlay/background-image/)
 
 ## Connect with Me
 <a href="https://www.linkedin.com/in/ittiwat-whangdee-8227111a1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ittiwat-whangdee-8227111a1" height="30" width="40" /></a>
