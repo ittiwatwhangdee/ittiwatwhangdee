@@ -2,7 +2,7 @@
 I’m Ittiwat form Thailand, and I do content on Design and Development. I really enjoy learning languages and frameworks like Bootstrap. I also enjoy wireframing, ux, ui, and design in general.
 
 ## Skills and Experiences
-* 💻 HTML, CSS, JS
+* 💻 HTML, CSS
 * 📱 UX/UI Design
 * 📱 Flutter (Learning)
 
