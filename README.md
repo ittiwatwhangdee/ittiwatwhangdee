@@ -1,5 +1,5 @@
 ## Ittiwat Whangdee
-I’m Ittiwat form Thailand, and I do content on Design and Development. I really enjoy learning languages and frameworks like Bootstrap. I also enjoy wireframing, ux, ui, and design in general.
+I’m a UX/UI Designer base on Thailand. My goal is to creative purposeful products with the user mind. I explore the big picture and obsess over small details to deliver the best solution.
 
 ## Skills and Experiences
 * 💻 UI Designer
