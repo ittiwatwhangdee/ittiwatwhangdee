@@ -1,6 +1,5 @@
 ## Ittiwat Whangdee
-Hello there!
-I’m a UX/UI Designer base on Thailand. My goal is to creative purposeful products with the user mind. I explore the big picture and obsess over small details to deliver the best solution. Enhancing the overall user experience and making the platforms intuitive and accessible.
+I’m a UX/UI Designer base on Thailand. My goal is to creative purposeful products with the user mind. I explore the big picture and obsess over small details to deliver the best solution. Enhancing the overall user experience and making the platforms intuitive and accessible. I am currently interested in Blockchain technology and Decentralized applications.
 
 ## Skills and Experiences
 * 💻 UI Designer
